@@ -1,0 +1,19 @@
+{
+  "name": "entrega-1er-ejercicio-ob-javascript",
+  "version": "1.0.0",
+  "description": "Primer ejercicio del curso JavaScript de Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alobr/Entrega-1er-ejercicio-OB-JavaScript.git"
+  },
+  "author": "Alonso Bracho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alobr/Entrega-1er-ejercicio-OB-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Alobr/Entrega-1er-ejercicio-OB-JavaScript#readme"
+}
